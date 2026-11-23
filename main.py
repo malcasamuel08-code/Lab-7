@@ -7,3 +7,5 @@ numero2 = 20
 resultado = numero1 + numero2
 
 print("Resultado de la suma:", resultado)
+
+print("Cambio realizado desde una nueva rama")
